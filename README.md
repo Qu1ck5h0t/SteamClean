@@ -5,6 +5,9 @@ This script will check your installed games and compare them to the folder names
 Here's what it looks like:
 ![image](https://github.com/user-attachments/assets/7b741b43-4082-4bcc-9b12-abc5ffde8840)
 
+## Usage
+There's a place in the script where you paste your Steam/steamapps folder path. After that, just run the script and you're good to go!
+
 ## Context
 The day prior to writing the script, I had discovered that even though I've uninstalled Cyberpunk 2077 and PUBG through steam, the folders still remained on my machine and were hogging 100GB of my disk space for nothing. I knew that steam was terrible at uninstalling games, but I never thought it'd be this bad. Thus, I took matters into my own hands and got to coding this tool ASAP.
 
