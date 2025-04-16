@@ -4,7 +4,7 @@ import re
 import shutil
 
 # PATH TO YOUR STEAMAPPS FOLDER HERE
-directory = '/mnt/c/Program Files (x86)/Steam/steamapps'
+directory = 'COPY PASTE PATH HERE'
 if os.name == 'nt':
   common = rf'{directory}\common'
 if os.name == 'posix':
